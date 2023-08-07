@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/windows-error-sound-effect-35894.mp3-7a260b32f69ed094cc177ffe20b616b9.mp3str"
+
+[deps]
+
+source_file="res://windows-error-sound-effect-35894.mp3"
+dest_files=[ "res://.import/windows-error-sound-effect-35894.mp3-7a260b32f69ed094cc177ffe20b616b9.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
